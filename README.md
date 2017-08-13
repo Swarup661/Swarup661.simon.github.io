@@ -1,5 +1,4 @@
 # Swarup661.simon.github.io
-<!DOCTYPE html>
 <head>
 <style>
 html, body {
