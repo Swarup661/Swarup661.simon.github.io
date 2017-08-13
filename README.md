@@ -8,7 +8,7 @@ html, body {
 .out-circle{
 	width: 500px;
 	height: 500px;
-	background-color: # 343438;
+	background-color: #343438;
 	position:relative;
 	border-radius: 290px;
 	padding: 40px;
