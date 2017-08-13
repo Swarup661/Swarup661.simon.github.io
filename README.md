@@ -8,13 +8,13 @@ html, body {
 	text-align: centre;
 }
 .out-circle{
-	width: 500 ;
-	height: 500 ;
+	width: 500px;
+	height: 500px;
 	background-color: #343438;
 	position:relative;
-	border-radius: 290 ;
-	padding: 40 ;
-	border: 1  solid #444;
+	border-radius: 290px;
+	padding: 40px;
+	border: 1px solid #444;
 	margin: 5% auto;
 }
 .out-circle .green{
@@ -22,66 +22,66 @@ html, body {
 	top: 0;
 	left: 0;
 	background-color: #00ff00;
-	width: 240 ;
-	height: 240 ;
+	width: 240px;
+	height: 240px;
 	border-radius: 100% 0 0 0;
 	display: inline-block;
-	margin-right: 8 ;
-	margin-bottom: 8 ;
+	margin-right: 8px;
+	margin-bottom: 8px;
 }
 .out-circle .red{
 	position: relative;
 	top: 0;
 	right: 0;
 	background-color: #ff0000;
-	width: 240 ;
-	height: 240 ;
+	width: 240px;
+	height: 240px;
 	border-radius: 0 100% 0 0;
 	display: inline-block;
-	margin-left: 8 ;
-	margin-bottom: 8 ;
+	margin-left: 8px;
+	margin-bottom: 8px;
 }
 .out-circle .yellow{
 	position: relative;
 	bottom: 0;
 	left: 0;
 	background-color: #ffff00;
-	width: 240 ;
-	height: 240 ;
+	width: 240px;
+	height: 240px;
 	border-radius: 0 0 0 100%;
 	display: inline-block;
-	margin-right: 8 ;
-	margin-top: 8 ;
+	margin-right: 8px;
+	margin-top: 8px;
 }
 .out-circle .blue{
 	position: relative;
 	bottom: 0;
 	right: 0;
 	background-color: #0000ff;
-	width: 240 ;
-	height: 240 ;
+	width: 240px;
+	height: 240px;
 	border-radius: 0 0 100% 0;
 	display: inline-block;
-	margin-left: 8 ;
-	margin-top: 8 ;
+	margin-left: 8px;
+	margin-top: 8px;
 }
 .out-circle .game-out-circle{
-	height: 200 ;
-	width: 200 ;
-	border: 40  solid #343438;
-	border-radius: 160 ;
+	height: 200px;
+	width: 200px;
+	border: 40px solid #343438;
+	border-radius: 160px;
 	position: absolute;
-	left: 150 ;
-	top: 150 ;
+	left: 150px;
+	top: 150px;
 	background-color: white;
 }
 .out-circle .game-in-circle{
-	height: 148 ;
-	width: 148 ;
-	border-radius: 74 ;
+	height: 148px;
+	width: 148px;
+	border-radius: 74px;
 	position: relative;
-	left: 16 ;
-	top: 16 ;
+	left: 16px;
+	top: 16px;
 	background-color: white;
 }
 .out-circle .game-in-circle .game-name{
@@ -90,20 +90,20 @@ html, body {
 	font-size: 50;
 	font-weight: bold;
 	position: relative;
-	top: 5 ;
-	left: 15 ;
+	top: 5px;
+	left: 15px;
 }
 .out-circle .game-in-circle .count{
-	width: 50 ;
-	height: 30 ;
-	padding: 10 ;
+	width: 50px;
+	height: 30px;
+	padding: 10px;
 	text-align: center;
-	border: 1  solid #343438;
-	border-radius: 7 ;
+	border: 1px solid #343438;
+	border-radius: 7px;
 	font-size: small;
 	color: maroon;
-	top: 70 ;
-	left: 1 ;
+	top: 70px;
+	left: 1px;
 	position: absolute;
 	background-color: #370410;
 	font-family: VT323;
@@ -114,12 +114,12 @@ input:hover, input:focus{
 }
 .out-circle .game-in-circle .start{
 	position: absolute;
-	width: 30 ;
-	height: 30 ;
-	border: 4  solid #343438;
-	border-radius: 17 ; 
-	top: 70 ;
-	left: 77 ;
+	width: 30px;
+	height: 30px;
+	border: 4px solid #343438;
+	border-radius: 17px; 
+	top: 70px;
+	left: 77px;
 	background-color: #CB151F;
 }
 inout:hover, input:focus{
@@ -128,67 +128,67 @@ inout:hover, input:focus{
 }
 .out-circle .game-in-circle .strict{
 	position: absolute;
-	width: 30 ;
-	height: 30 ;
-	border: 4  solid #343438;
-	border-radius: 17 ;
-	top: 70 ;
-	left: 130 ;
+	width: 30px;
+	height: 30px;
+	border: 4px solid #343438;
+	border-radius: 17px;
+	top: 70px;
+	left: 130px;
 	background-color: #F9FF02;
 }
 .out-circle .game-in-circle .strict-indicator{
 	position: absolute;
-	width: 10 ;
-	height: 10 ;
+	width: 10px;
+	height: 10px;
 	border: none;
-	border-radius: 5 ;
-	top: 55 ;
-	left: 140 ;
+	border-radius: 5px;
+	top: 55px;
+	left: 140px;
 	background-color: black;
 }
 .out-circle .game-in-circle .toogle-button{
 	position: absolute;	
-	width: 50 ;
-	height: 20 ;
+	width: 50px;
+	height: 20px;
 	padding: none;
 	border: none;
 	border-radius: 15% 15% 15% 15%;
-	top: 140 ;
-	left: 60 ;
+	top: 140px;
+	left: 60px;
 	background: black;
 }
 .out-circle .game-in-circle .text-name .text-count{
 	position: absolute;
-	top: 105 ;
-	left: 5 ;
+	top: 105px;
+	left: 5px;
 	font-family: oswald;
 	font-size: 12;
 }
 .out-circle .game-in-circle .text-name .text-start{
 	position: absolute;
-	top: 105 ;
-	left: 75 ;
+	top: 105px;
+	left: 75px;
 	font-family: oswald;
 	font-size:12;
 }
 .out-circle .game-in-circle .text-name .text-strict{
 	position: absolute;
-	top: 105 ;
-	left: 125 ;
+	top: 105px;
+	left: 125px;
 	font-family: oswald;
 	font-size:12;
 }
 .out-circle .game-in-circle .text-name .toogle-button-off{
 	position: absolute;
-	top: 145 ;
-	left: 35 ;
+	top: 145px;
+	left: 35px;
 	font-family: oswald;
 	font-size: 10;
 }
 .out-circle .game-in-circle .text-name .toogle-button-on{
 	position: absolute;
-	top: 145 ;
-	left: 115 ;
+	top: 145px;
+	left: 115px;
 	font-family: oswald;
 	font-size: 10;
 }
