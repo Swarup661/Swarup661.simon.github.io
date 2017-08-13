@@ -84,16 +84,16 @@ html, body {
 }
 .out-circle .game-in-circle .game-name{
 	color: #343438;
-	font-family: Alfa Slab One;
-	font-size: 50;
+	font-family: Alfa Slab;
+	font-size: 300%;
 	font-weight: bold;
 	position: relative;
 	top: 5px;
 	left: 15px;
 }
 .out-circle .game-in-circle .count{
-	width: 50px;
-	height: 30px;
+	width: 40px;
+	height: 10px;
 	padding: 10px;
 	text-align: center;
 	border: 1px solid #343438;
@@ -158,37 +158,37 @@ inout:hover, input:focus{
 .out-circle .game-in-circle .text-name .text-count{
 	position: absolute;
 	top: 105px;
-	left: 5px;
+	left: 1px;
 	font-family: oswald;
-	font-size: 12;
+	font-size: 100%;
 }
 .out-circle .game-in-circle .text-name .text-start{
 	position: absolute;
 	top: 105px;
-	left: 75px;
+	left: 65px;
 	font-family: oswald;
-	font-size:12;
+	font-size: 100%;
 }
 .out-circle .game-in-circle .text-name .text-strict{
 	position: absolute;
 	top: 105px;
-	left: 125px;
+	left: 120px;
 	font-family: oswald;
-	font-size:12;
+	font-size:100%;
 }
 .out-circle .game-in-circle .text-name .toogle-button-off{
 	position: absolute;
-	top: 145px;
-	left: 35px;
+	top: 140px;
+	left: 25px;
 	font-family: oswald;
-	font-size: 10;
+	font-size: 100%;
 }
 .out-circle .game-in-circle .text-name .toogle-button-on{
 	position: absolute;
-	top: 145px;
+	top: 140px;
 	left: 115px;
 	font-family: oswald;
-	font-size: 10;
+	font-size: 100%;
 }
 </style>
 </head>
