@@ -6,12 +6,12 @@ html, body {
 	text-align: centre;
 }
 .out-circle{
-	width: 500px;
-	height: 500px;
+	width: 600px;
+	height: 600px;
 	background-color: #343438;
 	position:relative;
-	border-radius: 290px;
-	padding: 40px;
+	border-radius: 350px;
+	padding: 50px;
 	border: 1px solid #444;
 	margin: 5% auto;
 }
