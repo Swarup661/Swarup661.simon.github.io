@@ -16,7 +16,7 @@ html, body {
 	margin: 5% auto;
 }
 .out-circle .green{
-	position: relative;
+	position: absolute;
 	top: 0;
 	left: 0;
 	background-color: #00ff00;
